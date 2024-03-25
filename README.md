@@ -18,7 +18,7 @@ Layout da página inicial
 
 
 Layout do link quem somos 
-![quem somos](https://github.com/DeangellesES/Site_de_uma_universidade_ficticio-HMTL5-CSS3/blob/master/unis.png)
+![quem somos](https://github.com/DeangellesES/Site_de_uma_universidade_ficticio-HMTL5-CSS3/blob/master/quemsomos.png)
 
 
 
